@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/bin/Debug/net6.0/Задача4
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/bin/Debug/net6.0/Задача4.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/bin/Debug/net6.0/Задача4.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/bin/Debug/net6.0/Задача4.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/bin/Debug/net6.0/Задача4.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/refint/Задача4.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/Задача4.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Задача4/obj/Debug/net6.0/ref/Задача4.dll
