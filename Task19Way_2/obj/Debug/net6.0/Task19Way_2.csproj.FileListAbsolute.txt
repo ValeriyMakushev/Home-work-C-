@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/bin/Debug/net6.0/Task19Way_2
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/bin/Debug/net6.0/Task19Way_2.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/bin/Debug/net6.0/Task19Way_2.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/bin/Debug/net6.0/Task19Way_2.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/bin/Debug/net6.0/Task19Way_2.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/refint/Task19Way_2.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/Task19Way_2.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task19Way_2/obj/Debug/net6.0/ref/Task19Way_2.dll
