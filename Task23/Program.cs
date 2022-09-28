@@ -8,6 +8,6 @@ int C = 1;
 while (C <= N)
 
 {
-    Console.WriteLine(Math.Pow(C, 3));
+    Console.Write(Math.Pow(C, 3)+" ");
     C++;
 }
