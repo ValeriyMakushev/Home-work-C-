@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/bin/Debug/net6.0/Task_circle_radius
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/bin/Debug/net6.0/Task_circle_radius.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/bin/Debug/net6.0/Task_circle_radius.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/bin/Debug/net6.0/Task_circle_radius.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/bin/Debug/net6.0/Task_circle_radius.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/refint/Task_circle_radius.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/Task_circle_radius.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task_circle_radius/obj/Debug/net6.0/ref/Task_circle_radius.dll
