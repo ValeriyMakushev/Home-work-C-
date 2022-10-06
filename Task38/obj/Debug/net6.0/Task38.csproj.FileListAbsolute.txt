@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/bin/Debug/net6.0/Task38
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/bin/Debug/net6.0/Task38.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/bin/Debug/net6.0/Task38.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/bin/Debug/net6.0/Task38.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/bin/Debug/net6.0/Task38.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/refint/Task38.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/Task38.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task38/obj/Debug/net6.0/ref/Task38.dll
