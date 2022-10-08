@@ -11,7 +11,7 @@ Console.WriteLine(" Массив: ");
 PrintArray(numbers);
 int sum = 0;
 int i = 0;
-for (i=0; i<numbers.Length; i+=2)
+for (i=1; i<numbers.Length; i+=2)
 sum = sum+numbers[i];
 
 Console.WriteLine($"Cумма элементов cтоящих на нечётных позициях = {sum}");
