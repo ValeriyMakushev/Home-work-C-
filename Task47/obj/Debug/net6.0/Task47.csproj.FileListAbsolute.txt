@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/bin/Debug/net6.0/Task47
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/bin/Debug/net6.0/Task47.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/bin/Debug/net6.0/Task47.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/bin/Debug/net6.0/Task47.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/bin/Debug/net6.0/Task47.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/refint/Task47.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/Task47.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task47/obj/Debug/net6.0/ref/Task47.dll
