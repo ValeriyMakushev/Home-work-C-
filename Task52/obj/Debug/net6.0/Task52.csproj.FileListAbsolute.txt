@@ -1,0 +1,15 @@
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/bin/Debug/net6.0/Task52
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/bin/Debug/net6.0/Task52.deps.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/bin/Debug/net6.0/Task52.runtimeconfig.json
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/bin/Debug/net6.0/Task52.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/bin/Debug/net6.0/Task52.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.csproj.AssemblyReference.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.AssemblyInfoInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.AssemblyInfo.cs
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.csproj.CoreCompileInputs.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/refint/Task52.dll
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.pdb
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/Task52.genruntimeconfig.cache
+/Users/makushevvaleriy/Desktop/phyton/Homework C#/Task52/obj/Debug/net6.0/ref/Task52.dll
